@@ -1,3 +1,4 @@
 <resources>
   <string name="app_name">PrefUtilSample</string>
+  <string name="description">This is simple library to ease the use of Android SharedPreference, you can put and get String, Boolean and Integer data using same function call. The class is designed to be singleton. </string>
 </resources>
